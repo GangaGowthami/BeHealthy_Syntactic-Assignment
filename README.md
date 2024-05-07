@@ -25,6 +25,6 @@ Sentence file contains all iterations between patients and doctor and Label file
 We now use the CRF model's prediction to prepare a record of diseases identified in the corpus and treatments used for the diseases.
 Predicting the treatment for the disease name: 'hereditary retinoblastoma'
 - Treatment for 'hereditary retinoblastoma' is 'radiotherapy'
-- 
+  
 # Contact
 Created by [@GowthamiGanga] - feel free to contact me!
